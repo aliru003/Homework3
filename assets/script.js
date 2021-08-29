@@ -13,7 +13,6 @@ var upperSelection = false;
 var specialSelection = false;
 var numberSelection = false;
 
-
 //function to generate a random password
 
 function generate() {
