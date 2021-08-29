@@ -29,15 +29,12 @@ function generate() {
         if (confirm("Would you like to use lowercase characters?") == true) {
             lowerSelection = true
         } 
-
         if (confirm("Would you like to use uppercase characters?") == true) {
             upperSelection = true
         }
-
         if (confirm("Would you like to use special characters?") == true) {
             specialSelection = true
         }
-
         if (confirm("Would you like to use numerical characters?") == true) {
             numberSelection = true
         }
@@ -56,7 +53,6 @@ function generate() {
     pwd = password(confirmLength, characters);
 
     document.getElementById("password").innerHTML = pwd;
-
 }
 
 function password(l, characters) {

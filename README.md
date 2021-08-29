@@ -30,6 +30,4 @@ like lenght, uppercase, lowercase, symbols
 
 Kept look of original website mockup
 
-
-(./assets/PasswordGenerator.jpg)
 ![picture 1](images/15aa1155717d13c71a91e43fecc4ed5edb4fb5f3fbfbfafd0ad4677be5e2cce7.png)  
